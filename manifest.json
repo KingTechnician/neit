@@ -35,8 +35,8 @@
   }
 ], 
   "orientation": "any", 
-  "short_name": "Nei",
-  "name": "Nei",
+  "short_name": "Neit",
+  "name": "Neit",
   "icons": [
     {
       "src": "favicon.ico",
@@ -55,7 +55,7 @@
     }
   ],
   "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#3337ab",
-  "background_color": "#3337ab"
+  "display": "fullscreen",
+  "theme_color": "#425A79",
+  "background_color": "#425A79"
 }
